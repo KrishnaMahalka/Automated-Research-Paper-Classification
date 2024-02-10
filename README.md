@@ -27,7 +27,7 @@ The project includes the following Jupyter notebooks:
 - **DeBERTa Training Script** (Overfit Model): [Link](https://github.com/KrishnaMahalka/kriti24/blob/e711dc5c31935855064b6f85cf631fa18dff36af/deberta6.ipynb)
 - **DeBERTa-Large Script**: [Link](https://github.com/KrishnaMahalka/kriti24/blob/33118842747759544ac7f06259deebe7553ff8c7/debertalarge.ipynb)
 - **RoBERTa Script**: [Link](https://github.com/KrishnaMahalka/kriti24/blob/c55e55812723cdcf8ca711d1e826607e3ae63a4f/roberta3.ipynb)
-- **Inference Notebook**: [Link](https://github.com/KrishnaMahalka/kriti24/blob/c55e55812723cdcf8ca711d1e826607e3ae63a4f/roberta3.ipynb)
+- **Inference Notebook**: [Link](https://github.com/KrishnaMahalka/kriti24/blob/master/%5BINFER%5D%20Kameng.ipynb)
 
 Each notebook contains detailed steps for model training, fine-tuning, and inference.
 
