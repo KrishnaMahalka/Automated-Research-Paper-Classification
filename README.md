@@ -5,5 +5,5 @@ training scripts:
 
 * deberta script- [Link](https://github.com/KrishnaMahalka/kriti24/blob/9cea4944176256e59cfbd3223c13ac55fb570b8d/deberta.ipynb)
 * deberta 6traing script - [Link](https://github.com/KrishnaMahalka/kriti24/blob/e711dc5c31935855064b6f85cf631fa18dff36af/deberta6.ipynb)
-* deberta large script- [Link]()
+* deberta large script- [Link](https://github.com/KrishnaMahalka/kriti24/blob/33118842747759544ac7f06259deebe7553ff8c7/debertalarge.ipynb)
 * roberta script- [Link]()
